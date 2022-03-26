@@ -1,1 +1,1 @@
-# Proyect-Calculator
+# Project-Calculator
